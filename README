@@ -1,6 +1,6 @@
 = Trinity Zero -- General information =
 
-Copyright (C) Trinity Core (http://www.trinitycore.org)
+Copyright (C) Trinity Core (https://github.com/Vitasic/TrinityCore)
 
   Trinity Core is free software; you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -31,7 +31,7 @@ from MaNGOS, the Massive Network Game Object Server, and is based on the
 code of that project.
 
 For further information on the Trinity Core project, please visit our
-project website at http://www.trinitycore.org.
+project website at https://github.com/Vitasic/TrinityCore
 
 API documentation can be obtained by running the "make doc" command inside
 the doc directory.
@@ -39,5 +39,3 @@ the doc directory.
 SQL files to create the database can be found in the sql directory. Files
 to update your database from an older revision/version can be found in the
 sql/updates directory.
-
-See the INSTALL.Linux file for installation instructions under Linux.
