@@ -30,7 +30,7 @@
 #include "revision.h"
 
 
-#define _PACKAGENAME "TrinityZero "
+#define _PACKAGENAME "Core: BattleCore\nDeveloper: Vitasic\n"
 #define _CODENAME "YUME"
 
 #if TRINITY_ENDIAN == TRINITY_BIGENDIAN
@@ -41,12 +41,12 @@
 
 #if PLATFORM == PLATFORM_WINDOWS
 # ifdef _WIN64
-#  define _FULLVERSION _PACKAGENAME "Rev: 1747 Hash: fd3b51e9f7f6 (Win64, little-endian)"
+#  define _FULLVERSION _PACKAGENAME "Rev: 1748 /*Hash: fd3b51e9f7f6*/ (Win64, little-endian)"
 # else
-#  define _FULLVERSION _PACKAGENAME "Rev: 1747 Hash: fd3b51e9f7f6 (Win32, little-endian)"
+#  define _FULLVERSION _PACKAGENAME "Rev: 1748 /*Hash: fd3b51e9f7f6*/ (Win32, little-endian)"
 # endif
 #else
-#  define _FULLVERSION _PACKAGENAME "Rev: 1747 Hash: fd3b51e9f7f6 (Unix, little-endian)"
+#  define _FULLVERSION _PACKAGENAME "Rev: 1748 /*Hash: fd3b51e9f7f6*/ (Unix, little-endian)"
 #endif
 
 /*

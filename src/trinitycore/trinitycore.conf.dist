@@ -321,7 +321,7 @@ GmLogFile = "gm_commands.log"
 GmLogTimestamp = 0
 GmLogPerAccount = 0
 RaLogFile = "ra_commands.log"
-LogColors = ""
+LogColors = "13 10 11 9"
 
 ###################################################################################################################
 # SERVER SETTINGS
@@ -606,7 +606,7 @@ MaxGroupXPDistance = 74
 MailDeliveryDelay = 3600
 Event.Announce = 0
 BeepAtStart = 1
-Motd = "Welcome to a Trinity Core server."
+Motd = "Welcome to a BattleCore server."
 Server.LoginInfo = 0
 
 ###################################################################################################################
